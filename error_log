@@ -1,0 +1,5 @@
+[29-Jun-2015 06:21:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/bvmgroup/public_html/enquiryform.php on line 174
+[29-Jun-2015 06:44:14 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bvmgroup/public_html/enquiryform.php on line 190
+[29-Jun-2015 06:51:02 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bvmgroup/public_html/enquiryform.php:19) in /home/bvmgroup/public_html/enquiryform.php on line 203
+[29-Jun-2015 06:51:48 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bvmgroup/public_html/enquiryform.php:19) in /home/bvmgroup/public_html/enquiryform.php on line 203
+[11-Sep-2015 00:53:08 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'bvmgroup_userbvm'@'localhost' (using password: YES) in /home/bvmgroup/public_html/update.php on line 17

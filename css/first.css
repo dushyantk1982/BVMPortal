@@ -1,0 +1,14 @@
+/* CSS Document */
+a:link {
+	color:#FFFFFF;
+}
+a:visited {
+	color: #FFFF99;
+}
+a:hover {
+	color:#FFCC33;
+}
+.cls{}
+a.cls{color:#990000;}
+a.cls:link{color:#990000;}
+a.cls:hover{color:#000066;}

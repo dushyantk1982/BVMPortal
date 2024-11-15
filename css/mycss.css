@@ -1,0 +1,23 @@
+/* CSS Document */
+.bodytext
+{
+	font-size: 12px;
+	color: #000000;
+	color:#000000;
+}
+.boder1
+{
+border:groove;
+border:#5671A3}
+.pagefont
+{
+font-size-adjust:inherit;
+font-size:14px;
+color:#330000;
+font-family:"century schoolbook";
+}
+.blinktext
+{
+text-decoration:blink;
+background-color:#000066;
+color:#FFFF33;}

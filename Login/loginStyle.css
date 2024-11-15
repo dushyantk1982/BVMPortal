@@ -1,0 +1,64 @@
+/* CSS Document */
+
+.container
+{
+height:300px;
+width:350px;
+margin-left:auto;
+margin-right:auto;
+margin-top:20%;
+padding:2px;
+/*border:2px solid #000000;
+*/}
+.head
+{
+height:60px;
+width:343px;
+padding:2px;
+background:url(images/login08.jpg) no-repeat;
+/*border:2px solid #000000;
+*/}
+.transbox
+  {
+  width:30px;
+  height:20px;
+  margin-left:160px;
+  margin-top:15px;
+  opacity:0.6;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+  float:right;
+  }
+.content
+{
+height:200px;
+width:343px;
+padding:2px;
+border:2px solid #000000;
+background:url(images/log2.png) center;
+
+}
+.fm
+{
+height:140px;
+width:333px;
+padding:2px;
+/*border:2px solid #000000;
+*/}
+.buttons
+{
+height:43px;
+width:333px;
+padding:2px;
+/*border:2px solid #000000;*/
+}
+.content input
+{
+border:ridge;
+height:20px;
+
+}
+.log
+{
+height:130px;
+width:250px;
+}

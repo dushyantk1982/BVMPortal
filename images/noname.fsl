@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Version="FSL 4.1">
+  <Width>900</Width>
+  <Height>100</Height>
+  <FPS>12</FPS>
+  <URL AddURL="0" Target=""></URL>
+  <BGMode BGMode="1">
+    <Color>10711382</Color>
+  </BGMode>
+  <ActionOfEnd>0</ActionOfEnd>
+  <Navigation ButPlayStop="false" ButRewind="false" ButNextPrev="false" StopSlide="false"/>
+  <BgSound UseBgSound="false"/>
+  <Preloader UsePreloader="false"/>
+  <Titles Visible="false"/>
+  <Slides Count="1">
+    <Slide num="0" Position="2">
+      <File Delay="400">bvm.jpg</File>
+      <Effect Delay="100">OF4_1</Effect>
+    </Slide>
+  </Slides>
+</Project>
